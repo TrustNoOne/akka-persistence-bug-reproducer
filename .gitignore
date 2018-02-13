@@ -1,0 +1,7 @@
+target
+.idea
+.ensime*
+.java-version
+*.log
+.DS_Store
+ddata*replicator*
